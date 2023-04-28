@@ -28,7 +28,7 @@
         "bitpay/sdk": "~7.1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": ">=9.5"
+        "phpunit/phpunit": "^10.1"
     },
     "autoload": {
         "psr-4": {
